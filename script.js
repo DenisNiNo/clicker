@@ -42,6 +42,7 @@ levels={
 	19:{"click":190, "img":"img/019.png"},
 	20:{"click":200, "img":"img/020.png"},
 	21:{"click":210, "img":"img/021.png"},
+	22:{"click":220, "img":"img/022.png"},
 }
 $('.personage').on('click',function(){
   money  += price_click
