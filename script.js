@@ -36,6 +36,12 @@ levels={
 	13:{"click":130, "img":"img/013.png"},
 	14:{"click":140, "img":"img/014.png"},
 	15:{"click":150, "img":"img/015.png"},
+	16:{"click":160, "img":"img/016.png"},
+	17:{"click":170, "img":"img/017.png"},
+	18:{"click":180, "img":"img/018.png"},
+	19:{"click":190, "img":"img/019.png"},
+	20:{"click":200, "img":"img/020.png"},
+	21:{"click":210, "img":"img/021.png"},
 }
 $('.personage').on('click',function(){
   money  += price_click
